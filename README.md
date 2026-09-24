@@ -1,4 +1,4 @@
-# zemax-local-optimization-macro
+# zemax-local-optimization-visulization-macro
 A ZPL macro for **Ansys Zemax OpticStudio** that logs, analyzes, and visualizes optimization behavior cycle-by-cycle.
 ## Overview
 
