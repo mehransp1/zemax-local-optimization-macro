@@ -1,5 +1,4 @@
 # zemax-local-optimization-macro
-Zemax Local Optimization &amp; Variable Tracking Macro[README_Optimization_Tracking_ZPL.md](https://github.com/user-attachments/files/32630478/README_Optimization_Tracking_ZPL.md)
 A ZPL macro for **Ansys Zemax OpticStudio** that logs, analyzes, and visualizes optimization behavior cycle-by-cycle.
 ## Overview
 
